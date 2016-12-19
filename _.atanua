@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Atanua Version="Atanua/Win32 1.1.101120 - Trial Version" ChipCount="14" WireCount="3" key="150193955" scale="16">
+    <Chip Name="External Pin" xpos="32768" ypos="32768" rot="0" key="220405">00FFFFFF00000003696E31</Chip>
+    <Chip Name="External Pin" xpos="32768" ypos="425984" rot="0" key="180474">00FFFFFF00000003696E32</Chip>
+    <Chip Name="External Pin" xpos="32768" ypos="753664" rot="0" key="189751">00FFFFFF00000003696E33</Chip>
+    <Chip Name="External Pin" xpos="917504" ypos="0" rot="0" key="193297">00FFFFFF000000026F31</Chip>
+    <Chip Name="External Pin" xpos="950272" ypos="98304" rot="0" key="168829">00FFFFFF000000023032</Chip>
+    <Chip Name="External Pin" xpos="950272" ypos="229376" rot="0" key="172378">00FFFFFF000000026F33</Chip>
+    <Chip Name="External Pin" xpos="950272" ypos="327680" rot="0" key="149293">00FFFFFF000000026F34</Chip>
+    <Chip Name="External Pin" xpos="950272" ypos="458752" rot="0" key="163090">00FFFFFF000000026F35</Chip>
+    <Chip Name="External Pin" xpos="950272" ypos="622592" rot="0" key="134734">00FFFFFF000000026F36</Chip>
+    <Chip Name="External Pin" xpos="983040" ypos="753664" rot="0" key="140680">00FFFFFF000000026F37</Chip>
+    <Chip Name="logic AND (fi)" xpos="262144" ypos="0" rot="0" key="115094" />
+    <Chip Name="logic AND (fi)" xpos="262144" ypos="131072" rot="0" key="130697" />
+    <Chip Name="logic AND (fi)" xpos="262144" ypos="262144" rot="0" key="99903" />
+    <Chip Name="logic AND (fi)" xpos="262144" ypos="458752" rot="0" key="97670" />
+    <Wire chip1="10" pad1="0" chip2="0" pad2="0" key="92143" />
+    <Wire chip1="11" pad1="0" chip2="0" pad2="0" key="90217" />
+    <Wire chip1="12" pad1="0" chip2="0" pad2="0" key="92887" />
+</Atanua>
