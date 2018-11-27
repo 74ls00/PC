@@ -29,6 +29,29 @@ pinout
 17 data8
 18
 
+19 ack
+22
+23 pe
+22
+25 select
+22
+
+21 busy
+20
+4 error
+20
+
+2 auto
+24
+6 init
+24
+8 selin
+24
+
+
+
+
+
 
 
 
