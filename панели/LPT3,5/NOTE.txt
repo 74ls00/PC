@@ -7,46 +7,46 @@
 
 pinout
 1 strobe 
-10 
+10 gnd
 
 3 data1
-12
+12gnd
 5 data2
-12
+12 gnd
 
 7 data3
-14
+14 gnd
 9 data4
-14
+14 gnd
 
 11 data5
-16
+16 gnd
 13 data6
-16
+16 gnd
 
 15 data7
-18
+18 gnd
 17 data8
-18
+18 gnd
 
 19 ack
-22
+22 gnd
 23 pe
-22
+22 gnd
 25 select
-22
+22 gnd
 
 21 busy
-20
+20 gnd
 4 error
-20
+20 gnd
 
 2 auto
-24
+24 gnd
 6 init
-24
+24 gnd
 8 selin
-24
+24 gnd
 
 
 
